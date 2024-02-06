@@ -11,12 +11,12 @@
   - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
   - [VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
 
-- HTML: Go through these tutorials and prepare presentations for Thursday afternoon.
+- HTML: please go through these tutorials and prepare presentations for Thursday afternoon.
   - Groups 1,4,7: [Basic Web Pages](https://internetingishard.netlify.app/html-and-css/basic-web-pages/)
   - Groups 2,5: [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/)
   - Groups 3,6: [Hello, CSS](https://internetingishard.netlify.app/html-and-css/hello-css/)
 
-- Linux: Go through these [tutorial] and prepare presentations for Thursday morning.
+- Linux: please go through this [tutorial] and prepare presentations for Thursday morning.
   - Groups 1,4,7: ls, cd, clear
   - Groups 2,5: pwd, rm, whoami
   - Groups 3,6: mkdir, cat, whereis
