@@ -18,8 +18,8 @@
 
 - Linux: Go through these [tutorial] and prepare presentations for Thursday morning.
   - Groups 1,4,7: ls, cd, clear
-  - Groups 2,5,8: pwd, rm, whoami
-  - Groups 3,6,9: mkdir, cat, whereis
+  - Groups 2,5: pwd, rm, whoami
+  - Groups 3,6: mkdir, cat, whereis
 
 
 > For the presentation, you can use PowerPoint/libreOffice or [revealjs.com](https://revealjs.com/installation/), 
