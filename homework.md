@@ -13,8 +13,8 @@
 
 - HTML: Go through these tutorials and prepare presentations for Thursday afternoon.
   - Groups 1,4,7: [Basic Web Pages](https://internetingishard.netlify.app/html-and-css/basic-web-pages/)
-  - Groups 2,5,8: [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/)
-  - Groups 3,6,9: [Hello, CSS](https://internetingishard.netlify.app/html-and-css/hello-css/)
+  - Groups 2,5: [Links and Images](https://internetingishard.netlify.app/html-and-css/links-and-images/)
+  - Groups 3,6: [Hello, CSS](https://internetingishard.netlify.app/html-and-css/hello-css/)
 
 - Linux: Go through these [tutorial] and prepare presentations for Thursday morning.
   - Groups 1,4,7: ls, cd, clear
@@ -24,4 +24,15 @@
   
 <!-- Links -->
 [tutorial]:https://www.geeksforgeeks.org/basic-linux-commands/
+
+<!-- Links -->
+[Scrimba]:https://scrimba.com/
+[Figma]:https://www.figma.com/
+[GitHub]:https://github.com/
+[Modern JavaScript Tutorial]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc
+[Modern JavaScript From The Beginning (12 Hours)]:https://youtu.be/BI1o2H9z9fo
+[Git & GitHub Tutorial for Beginners]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+[Introduction to Scrum - 7 Minutes]:https://youtu.be/9TycLR0TqFA
+[Scrum in 20 mins]:https://youtu.be/SWDhGSZNF9M
+[Figma UI Design Tutorial: Get Started in Just 24 Minutes]:https://youtu.be/FTFaQWZBqQ8
 
