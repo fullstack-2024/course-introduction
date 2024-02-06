@@ -45,6 +45,18 @@
 - Exceptional Value
 - other: soft skills
 
+-----
+
+### Group Discussion
+
+Engage in group discussions for 20 minutes. Please consider the following topics:
+1. Are you currently in Finland?
+2. What are your post-diploma goals?
+3. Share your background, whether it's in IT, Software, Business, or any other field.
+
+Choose **one member** to provide a `summary of the group's background at the end of the discussion`. Ensure each participant has the opportunity to express their thoughts on these points.
+
+
 ------
 ### [Topics](./description.md#session-2)
 
